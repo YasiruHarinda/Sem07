@@ -1,0 +1,37 @@
+Format:
+
+The students will play the roles of interviewers and the interviewee.
+Use the following books as guides for your preparation:
+Cracking the Coding Interview (CtCi) - 6th Edition (link - 54MB)
+Programming Interview Exposed (PIE) - 4th Edition (link - 16MB) / 3rd Edition (link - 7MB)
+Use the following sites to find new/better/interesting questions in your specific area.
+www.careercup.com
+www.glassdoor.com --> Check for questions from different companies in your area of expertise.
+www.hackerrank.com
+Read the introductory chapters for interview preparation (Technical and behavioural).
+Read and prepare to ask/answer questions from the following (or similar) lists as well
+150 Typical Interview Questions
+All the groups will cycle through the subject areas as we go forward. Apart from the interviewers, the interviewees must learn the relevant material. Therefore, you all are encouraged to go through & learn both books.
+Please bring copies of your CVs/Resumes, and any other relevant documents/certificates for the interviews.
+Expert Areas: (along with the relevant sections from the two books)
+
+Linked Lists, Trees, Graphs and C
+CtCi - Chapters 2, 3, 4 and 13
+PIE - Chapters 4 and 5
+Arrays and Strings, Recursion and Dynamic Programming
+CtCi - Chapters 1 and 9
+PIE - Chapter 6, 7 and 8
+Sorting and Searching
+CtCi - Chapters 11
+PIE - Chapters 8
+OOP, Design Patterns and Java
+CtCi - Chapters 8 and 14
+PIE - Chapters 10, 11
+Databases, Scalability and Memory Limits
+CtCi - Chapters 15 and 10
+PIE - Chapter 12
+Puzzles, Brain Teasers and Testing
+CtCi - Chapters 6, 7 and 12
+PIE - Chapter 14
+NOTE: CtCi contains more questions relevant to many different areas in Chapters 17 and 18 as well. PIE has more in Chapter 16.
+
